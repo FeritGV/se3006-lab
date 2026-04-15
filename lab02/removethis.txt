@@ -1,0 +1,1 @@
+In report we need to make a discussion about comparison between lab1's architecture and lab2's architecture. Like what happens if we add a new component for both architectures.
